@@ -1,0 +1,21 @@
+.odd {
+    background-color: lightsalmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.cooler {
+    /* background-color: lightsalmon;
+    font-family: "Verdana", "DejaVu Sans", sans-serif; */
+    font-size: 24px;
+}
